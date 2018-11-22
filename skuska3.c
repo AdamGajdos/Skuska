@@ -30,6 +30,7 @@ int main()
 		  printf("*");
 		}
 		
+		// Pridane do programa ci kokos //
 		
 		
 		printf("\n");
